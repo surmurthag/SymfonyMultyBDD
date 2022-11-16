@@ -59,7 +59,7 @@ $ php bin/console doctrine:migrations:migrate --em=customer
 ````
 ---
 
-#### Si vous omettez le nom du responsable de l’entité lorsque vous le demandez, Le gestionnaire d’entités par défaut (c’est-à-dire) est renvoyé :default
+#### Si vous omettez le nom du responsable de l’entité lorsque vous le demandez, Le gestionnaire d’entités par défaut (i.e.) est renvoyé :default
 ```php
 // src/Controller/UserController.php
 namespace App\Controller;
