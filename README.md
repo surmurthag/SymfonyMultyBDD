@@ -115,9 +115,9 @@ class UserController extends AbstractController
 
 ### Connect with me:
 
-// [![website](./img/twitter-dark.svg)](https://twitter.com/surmurthag#gh-dark-mode-only)
-// &nbsp;&nbsp;
-// [![website](./img/instagram-dark.svg)](https://instagram.com/surmurthag#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/)
+&nbsp;&nbsp;
+[![website](./img/instagram-dark.svg)](https://instagram.com/)
 
 ****
 ### Languages and Tools:
